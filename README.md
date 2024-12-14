@@ -365,4 +365,4 @@ U3699 Invalid dump code used. Outside abend code range.
 </pre>
 
 <br><br>
-All rights by Kenneth Fussichen 2004
+January 2025
